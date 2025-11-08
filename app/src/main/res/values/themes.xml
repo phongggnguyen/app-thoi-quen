@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyHabits" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:itemTextAppearance">@style/PopupMenuTextAppearance</item>
+        <item name="popupMenuStyle">@style/PopupMenuStyle</item>
+        <item name="actionOverflowMenuStyle">@style/OverflowMenuStyle</item>
+    </style>
+
+    <style name="OverflowMenuStyle" parent="@style/Widget.MaterialComponents.PopupMenu.Overflow">
+        <item name="android:popupBackground">@color/white</item>
+    </style>
+
+</resources>

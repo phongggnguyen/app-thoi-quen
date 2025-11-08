@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Sử dụng màu chính của ứng dụng -->
+    <solid android:color="@color/primary"/>
+
+    <!-- Kích thước mặc định -->
+    <size
+        android:width="8dp"
+        android:height="8dp"/>
+
+</shape>

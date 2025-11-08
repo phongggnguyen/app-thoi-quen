@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="yellow">#FFC107</color>
+    <color name="text_primary">#212121</color>
+    <color name="button_color">#2196F3</color>
+    <color name="hint_color">#757575</color>
+    <color name="fab_background">#2196F3</color>
+    <color name="app">#8FFD8F</color>
+    <color name="light">#b0c4de</color>
+    <color name="green">#4CAF50</color>
+
+    <!-- Calendar Colors -->
+    <color name="selectedStartDay">#F44336</color>
+    <color name="selectedStartDayBackground">#FFEBEE</color>
+    <color name="selectedStartDayText">#D32F2F</color>
+
+    <color name="selectedDay">#2196F3</color>
+    <color name="selectedDayBackground">#E3F2FD</color>
+    <color name="selectedDayText">#1976D2</color>
+    <color name="divider">#1F000000</color>
+
+    <!-- Calendar colors -->
+    <color name="start_day">#D32F2F</color>
+    <color name="red">#D32F2F</color>
+    <color name="start_day_background">#FFEBEE</color>
+    <color name="selected_day">#2196F3</color>
+    <color name="selected_day_background">#E3F2FD</color>
+    <color name="blue_selected">#2196F3</color>
+
+    <!-- Text colors -->
+    <color name="text_secondary">#99000000</color>
+
+    <!-- Chip colors -->
+    <color name="chip_background_color_selected">#E3F2FD</color>
+    <color name="chip_background_color_normal">#FFFFFF</color>
+    <color name="chip_stroke_color">#BDBDBD</color>
+    <color name="chip_text_color_selected">#2196F3</color>
+    <color name="chip_text_color_normal">#000000</color>
+    <color name="chip_background_selected">#E3F2FD</color>
+    <color name="checkbox_title_color">#666666</color>
+
+
+        <color name="background_default">#FFFFFF</color>
+        <color name="background_dark">#000000</color>
+        <color name="text_default">#000000</color>
+        <color name="text_dark">#FFFFFF</color>
+
+
+    <color name="colorPrimary">#65B9F8</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="checkGreen">#4CAF50</color>
+    <color name="checkYellow">#FFC107</color>
+    <color name="checkRed">#F44336</color>
+    <color name="checkNormal">#9D9C9C</color>
+
+    <color name="item_background_1">#FBE4E7</color>  <!-- Light pink pastel -->
+    <color name="item_background_2">#DDF4FD</color>  <!-- Light blue pastel -->
+
+    <!-- Màu viền đậm hơn ~20% so với màu nền -->
+    <color name="item_border_1">#F7C4CB</color>     <!-- Darker pink for border -->
+    <color name="item_border_2">#B4E0F5</color>     <!-- Darker blue for border -->
+
+    <color name="borderColor">#CCCCCC</color>
+    <color name="cardBackground">#FFFFFF</color>
+
+    <color name="unread_notification_bg">#C9E5FB</color>
+    <color name="primary_light">#AAD7FB</color>
+
+    <color name="calendar_background">#FBE4E7</color>
+    <color name="weekday_background">#F7C4CB</color>
+    <color name="border_gray">#7C7C7B</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="progressBackground">#DDDDDD</color>
+    <color name="progressForeground">#4CAF50</color>
+
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorPending">#B6B6B5</color>
+
+    <color name="colorError">#F44336</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="unread_notification">#F5F5F5</color>
+
+</resources>

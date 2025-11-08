@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_notification"
+        android:icon="@drawable/ic_notification"
+        android:title="Thông báo"
+        app:showAsAction="always"
+        app:actionLayout="@layout/notification_badge"/>
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Tìm kiếm"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_add_category"
+        android:icon="@drawable/ic_add_category"
+        android:title="Thêm danh mục"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_add_habit"
+        android:icon="@drawable/ic_add_habit"
+        android:title="Thêm thói quen"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_add_note"
+        android:icon="@drawable/ic_note"
+        android:title="Tạo ghi chú"
+        app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyHabits</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="select_month_days">Chọn ngày thực hiện trong tháng</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="no_days_selected">Chưa chọn ngày</string>
+    <string name="cannot_change_start_day">Không thể thay đổi ngày bắt đầu</string>
+    <string name="select_start_date_first">Vui lòng chọn ngày bắt đầu trước</string>
+    <string name="no_habits">Chưa có thói quen nào</string>
+    <string name="list_habits">Danh sách thói quen</string>
+
+    <string-array name="themes">
+        <item>Mặc định</item>
+        <item>Tối</item>
+    </string-array>
+
+</resources>
